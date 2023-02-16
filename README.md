@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Banner" src="https://i.imgur.com/hZW5ofN.png)"/>
+  <img alt="Banner" src="https://i.imgur.com/q1YmDhy.png"/>
 </h1>
 <h1 align="center"> Projeto NLW: Habits </h1>
 
