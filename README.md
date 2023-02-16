@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+# 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
